@@ -1,6 +1,8 @@
-background{
-    color: black;
+html 
+{
+    backgroun: violet;
 }
+
 h1
 
 /** isto é um seletor dentro dele tem como colocar varios tipos de definições para o html **/
