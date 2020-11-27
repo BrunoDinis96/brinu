@@ -1,0 +1,31 @@
+h1
+
+/** isto é um seletor dentro dele tem como colocar varios tipos de definições para o html **/
+    {
+    color: darkblue;
+}
+
+h2 {
+    color
+    /** propriedade **/
+    : cornflowerblue;
+        /** valor da propriedade **/
+    ;
+}
+
+h3 {
+    color: blue;
+}
+
+dd {
+    color: hotpink;
+}
+
+li {
+    color: hotpink;
+}
+
+pre {
+    color: hotpink;
+    font-family: monospace;
+}
